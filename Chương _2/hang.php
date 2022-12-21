@@ -1,7 +1,7 @@
 <?php
     //Hằng trong php
     //1. Trong các phiên bản cũ
-    define("HANG_SO_1",10);
+    define("HANG_SO_1",5);
     //1. Trong các phiên bản mới
     const HANG_SO_2 = "Hello";
 
